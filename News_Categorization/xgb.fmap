@@ -1,0 +1,12 @@
+0	possent	q
+1	negsent	q
+2	neusent	q
+3	possentprev1	q
+4	negsentprev1	q
+5	neusentprev1	q
+6	possentprev2	q
+7	negsentprev2	q
+8	neusentprev2	q
+9	posfrac	q
+10	negfrac	q
+11	newscount	q
